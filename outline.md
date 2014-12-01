@@ -24,36 +24,29 @@ From the assignment description,
 
 ## Structure
 
-1. Introduction (probably like 2 paragraphs for each of)
-	- Who we are and why we chose to conduct this ethnography
+1. Introduction
+	- Who we are and why we chose to conduct this ethnography.
     - What is the World of Warcraft?
-    - What will this paper attempt to show? (something about the nature of the game and why people should think it’s a cool thing outside of just being a game)
-2. Explanation of anything we need our readers to know for the following sections
-	- What are guilds, pvp vs pve, some easy things like that. This section should be a VERY brief overview of the topics we will get into in the body of the paper, just so that our readers can know what we’re talking about when we talk about our methods and the differences between our experiences.
+    - Explaining the thread of the paper, which is to draw parallels between the culture of WoW and RL. Focusing on how for example raiding might be like a team sport, guilds can be like social cliques, etc.
+2. WoW Background
+    - Overview
+    - Guilds
+    - PvE
+    - PvP
 3. Methods
-	- Brief discussion of the interface that the game provides players
-    - Discussion of means of communication, and why players so often turn to communication options outside the game’s natural UI (VOIP), and maybe talk about what that means in terms of familiarity with other players (you don’t just chat with random people on your guild TS)
+	- Brief discussion of the interface that the game provides players.
+    - Discussion of means of communication, and why players so often turn to communication options outside the game’s natural UI, like VoIP.
     - Overview of the interview process, as well as an explanation of the way we observe the things happening in WoW and tie them back into the paper.
-4. Us
-	- A comparison of the culture of your guild and mine, and the differences between our goals in the game, including:
+4. Our Experiences
+	- A comparison by example of the culture of your guild and mine, and the differences between our goals in the game, including:
     	- Casual “for fun” stance vs goal oriented progression raiding
     	- Family and irl friends vs application and merit based membership
-    	- Anything else?
-5.  Main Points, up to several pages for each of the following major sections
-	- Discussion of the main ideas of the game. The things you would first say to someone who has never heard of WoW:
-    	- Dungeons and dragons RPG / team oriented roots, classes and roles. (mage vs hunter vs warrior and tank vs dps vs healer)
-    	- Brief discussion of lore, mostly just to give the readers an idea of the different factions / races
-    	- Experience, the leveling process, and in game currencies
-    	- Dungeons and gear
-	- The game’s endgame goals
-    	- What is raiding?
-        - Progression raiding as something very different from casual raiding
-        - What is pvp?
-        - Arena / RBG as opposed to casual world pvp
-        - Achievements
-	- In game economy
-    	- Crafting
-        - Auction house
+    	- Note, these views should be presented separately, it's up to the reader to draw most of the connections. Basically I want to avoid making too many direct reference to each others experience. It will be less redundant this way.
+5.  Main Points
+    - Game community
+    - Guilds
+    - Power gamers
+    - Economy
 	- cultural issues within the game *tentative*
     	- Avatar presentation, including race and gender
         - Accessibility of the game to real world minorities, including perhaps a discussion of how WoW is an area where people can excel in ways that they could not in the real world due to physical disabilities or whatever, also gender
