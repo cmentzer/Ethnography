@@ -30,4 +30,27 @@ As mentioned a moment ago, it is impossible to convey certain things we take for
 
 Another way users supplement the default game interface is with the addition of third party “AddOns”. These AddOns are small programs developed by users to run on top of the game’s interface. By conforming to a set of standards that Blizzard designed into the game’s interface, these AddOns mesh seamlessly with the natural interface without requiring Blizzard to make accommodations for specific AddOns. AddOns do just about anything that a user could have thought to write a program to do; from keeping track of damage sources in an encounter to changing the in game font to giving the player warnings when encounter specific events are about to occur; the number of variety of AddOns is staggering. TODO: add more? Maybe move this above the VOIP section
 
+--- economy stuff
+
+Another way that Blizzard attempted to ensure that the world of Azeroth was as immersive as possible was by putting the infrastructure in place for players to generate an extensive virtual economy. There are several forms of currency in WoW, and several ways to exchange currencies for items and vice versa. One of the ways the game regulates how quickly a player can progress is by limiting that player’s access to a given currency. Some typical expenses that a player needs to pay for include: 
+-	Purchases from vendors, including equipment or consumable items
+-	Transportation fees
+-	Training fees
+-	Repair bills, for when the player’s equipment is damaged
+-	Auction house purchases or direct trade with players
+
+For most of these expenses, the currency the player needs is gold, the “money” of WoW. For more advanced purchases, including things like end game gear or trade good exchanges, the player needs some other currency like honor points or raid tokens. People gain wealth in WoW by: 
+-	Looting gold from slain enemies
+-	Completing quests
+-	Selling unneeded or outdated equipment
+-	Performing services for other players, such as cutting a gem or crafting an enchantment
+-	Auctioning goods or equipment to other players via the Auction House or by informally trading with other players.
+
+In the case of specific currencies like honor points (used for purchasing PvP equipment) or Apexis crystals (used for upgrading PvE equipment), players can win PvP events or complete specific endgame quests, respectively. 
+
+Each avatar in World of Warcraft can have two professions. In most cases players choose a gathering profession, such as mining or herb gathering, and a complementary crafting profession, such as blacksmithing or alchemy. Crafting professions allow a player to craft equipment, potions, or other useful items. In most cases, the items crafted by players can be sold to other players, and so the prices of those items greatly fluctuate depending on the supply and demand in the market. This means that having a lot of gold can give a player access to crafted items that other players cannot yet afford, which is one way that they can translate their virtual wealth to a real in-game advantage over other players. This means that while most players are okay with just having enough gold to get by, some hardcore powergamers consider having an excess of gold to be an essential part of staying ahead of the curve. 
+
+Still other players have no particular reason to amass vast amounts of gold, but consider it a fun challenge to leverage the in game economy and prove that they can make it big. Some players have even been able to create small monopolies on niche corners of the economy, such as a particular trade good. This is possible by monitoring the auction house, which is the primary means of exchanging goods between players, and purchasing the entire supply of that good before re-selling the goods for a higher price. This technique allows a player or group of players to eliminate competition by buying them out of the market.
+
+Since prices of goods can fluctuate so dramatically, one technique many guilds use is to band together within the guild and pool their resources. By doing so, a guild can funnel unneeded resources to a player who can make use of them, and that player can craft equipment or items at a much higher rate than they would be able to if they had to go out and rather all of the resources themself. 
 
