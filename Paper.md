@@ -1,4 +1,7 @@
 # Living in the World of Warcraft
+By Nathan Lilienthal & Clayton Mentzer
+
+## Introduction
 
 Blizzard Entertainment launched World of Warcraft in late 2004, as the latest installment of the Warcraft real time strategy games from the 1990’s. The game was immediately something of a phenomenon in the gaming community, and today it is an icon of nerd and gamer culture around the world. Odds are good that you’ve heard of it.
 
