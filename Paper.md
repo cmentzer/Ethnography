@@ -20,6 +20,7 @@ World of Warcraft has too many concurrent players to have all of them in the sam
 
 The intent of this paper is to call into question some of the stereotypes about World of Warcraft players, dispel some of the persistent misconceptions about the game and the world that it contains, and to investigate the differences between relationships that are formed in the context of WoW’s virtual space and those that are formed in the physical world. It is our belief that there is a lot of misinformation out there about World of Warcraft, the people that play WoW, and the virtual spaces have the capacity to generate interpersonal relationships that are as meaningful as those created in the physical world.
 
+
 # Player Interactions
 
 Along with the mechanical aspects of the game, WoW relies heavily on players interacting with each other in a variety of ways. These interactions are the foundation of the social structures that form out of the game, and this paper. As with all social mediums, there are constraints on various forms of expression. We'll look later at how players get act within these constrains, and how they get around the limitations of the system.
@@ -32,7 +33,6 @@ There are two **main** social constructions in World of Warcraft, your faction, 
 
 The faction also limits your choice in guild, because you can only be in a guild with others from your faction. In that way the faction is the broadest form of social structure in game. Much of the game is played within areas (mainly cities) which are dominated by your faction. Cities have a trade chat system which, despite its name is mostly used for general communication. Trade chat is only limited to players of your faction currently in major cities, so it is usually a pretty large group. This draws a stark contrast to the guild chat described below.
 
-
 ## The Guild
 
 The WoW guild is a smaller group within one's faction. Guilds vary in size, but most consist of around 20 to 40 active members. While it is possible to not be a member of any guild, almost all players belong to one. Each avatar can only belong to one guild. Guilds are entirely player driven, being player named, player moderated, and invite only. Naturally this leads to a large amount of diversity between different "kinds" of guilds. In general, guilds attract the kinds of players that are most like the players already in the guild, and form a kind of club or social network of other players that share common goals or ideas about how the game is best played.
@@ -43,18 +43,18 @@ Since guilds are player driven, there isn't any real limit to the number of type
 
 The presentation of different endgame goals that offer similar challenge in an immersive and engaging way is one of the reasons WoW has continued to be so successful a decade after its launch.
 
-
-### PvE
+### Player versus Environment
 
 PvE consists of dungeons and raids, in which a group of some number of players work together to defeat a challenging encounter or series of encounters programmed into the game. This is much like fighting a boss in D&D, where a group of players is tasked with killing a much more powerful enemy.
 
 A PvE guild doing the most challenging content in the game raids with 20 person groups. A large part of the challenge of the content is with organizing and instructing those 20 people. It's very much like a team sport, with defined leaders, respected players, and applicants.
 
-### PvP
+### Player versus Player
 
 PvP consists of specific spaces in the game allotted to allow players to compete against one another. Unlike PvE, a player knows the capabilities of his opponents because they are limited to the skills and spells of their class and specialization. The more casual PvP zones are called battlegrounds, spaces in which teams of 15-40 people compete against one another to complete objectives like capturing the enemy flag or killing the enemy commander. Players can join a battleground by themselves and be added to a team or join with a small group of their friends. Battleground usually reward honor points, which is used to buy entry level PvP equipment. Rated battlegrounds are a more formalized and more competitive form of battlegrounds, in which teams are limited to 10 players and all of the players on the team must join together. Arenas are one of 2v2, 3v3, or 5v5, and are generally considered the most competitive form of PvP. Arenas and rated battlegrounds award conquest points, which are used to purchase higher level PvP gear, and assign players a rating similarly to the way chess players are rated. A player's rating is used to determine the skill of the opponents that they play against, and some PvP rewards are only available to players with a high enough rating. Serious PvP teams can require commitment and practice the same way that serious raid groups do, and there are a lot of parallels in terms of time requirements and dedication to a physical world team sport. 
 
 On PvP enabled servers, PvP can also occur in most areas of the persistent world. This kind of impromptu PvP is called "world PvP", and is one of the many sources of spontanious, unscripted conflict in the game. World PvP grants honor points like battlegrounds, but often far fewer points than a battleground would. Because of this, world PvP is often initiated due to some other source of conflict. For example, if there is a mining node that two players both want to mine, they might fight to the death over it. Similarly, if two players are attempting to complete the same quest they might engage in world PvP in an attempt to emliminate competetion and keep the other player from slowing them down. Most of the time, world PvP is not balanced. Unlike a battleground where teams are relatively "fair", and both teams have the same number of players, it is not uncommon to see instances of world PvP where a large group of players from one faction "gank" a fewer number of players from the other faction. It is also not uncommon to see people calling for help when they are being harassed by members of the other faction, and because of this what starts off as a small open world skirmish can quickly become a full fledged battle as more and more people from each faction come to help.
+
 
 # Game Interface and Third Party Software
 
@@ -70,8 +70,6 @@ Interviews that were conducted while doing research for this paper were conducte
 
 For this paper the majority of the information comes directly from the authors' past experience playing WoW, from records of chat logs, and from formal and informal interviews with members of their guilds. Interviews were either transcribed directly as they were conducted, or recorded as a sound file and transcribed later. It was quite interesting to hear players talk about the different reasons they play the game, what they get out of guilds, and things like that. It was also interesting to see how some trends applied to almost everyone who plays WoW. For example, almost all WoW players got into the game because they already had friends who played, and who convinced them to join them. As we progress through this paper we will discuss some of the results of our findings at length.
 
-# our experiences
-
 ## Clayton's WoW Experience
 
 Clayton first started playing World of Warcraft in 2009, about halfway through the Wrath of the Lich King expansion. He created a level 1 Dranei Shaman on the realm of Azgalor, a member of the Alliance. Like most players, Clay started playing because he knew people who were already serious WoW players and they convinced him to give the game a try. In his case, the people who convinced him to get into the game were his family, specifically his cousin Thomas. Thomas is a diehard PvP player, and is one of those players who just seems to have it out for members of the opposing faction. Because Thomas mentored Clay as he progressed through the early stages of the game, they came to draw enjoyment from world PvP in much the same way. Thomas and his guild mates were always willing to drop whatever they were doing to come help out when the Horde started causing trouble, and often ended up causing trouble themselves. 
@@ -82,7 +80,9 @@ This meant that BearBlasting was not one of best guilds on the server. Usually t
 
 BearBlasting recently got back together at the start of the newest expansion, and this time the members have been a bit more serious about being a good guild. They still have the family oriented attitude, and anyone who knows someone in the guild and wants to join is more than welcome. The guild structure is pretty loose, with higher ranking members pulling not much more weight than new members. Every now and then there is some kind of guild drama, but for the most part people just play to have fun and there isn't much to cause trouble about. For Clay, WoW has always been more about the people that he plays with than any goals in the game.
 
+## Nate's Experience
 // mention the names of the guilds we are in
+
 
 # The Community of World of Warcraft
 
@@ -92,13 +92,26 @@ The general trend of maturity in WoW players also shows in the game's demographi
 
 WoW etiquette is something that is learned quickly by new players, usually either because someone teaches them or because it is easy to mimic the actions of other players. As mentioned before, most players start playing WoW because someone they already know convinces them to start. This also means that most new players have someone to show them the ropes, and to make sure they know the appropriate ways to interact with other players. For example, it is considered impolite to invite someone to a group without communicating with them first, or to initiate trade with another player without first coming to an agreement about the conditions of the exchange. players that breach etiquette are often "ignored" by other players, which limits their availability to communicate with the player that ignored them. Some breaches of etiquette, such as spamming a global chat channel or being racist or otherwise offensive, can have more serious repurcussions. In the past players have been kicked out of their guilds or even banned from the game by Blizzard for serious breaches of game ettiquette. 
 
+
 # Guilds
 
 ## Types of Guilds
 ## Guild Structure
 ## Benefits of Being in a Guild
 
-# Power Gamers
+
+# Powergamers
+
+The word powergaming refers to a sytle of play became prevalent alongside the rise in popularlity of goal and stats oriented role playing games. A person who is a powergamer is someone whose sole intent in playing is to make his or character as powerful as possible, with little or no regard for the more subjective elements of the game. A powergamer is someone who will find an exploit and abuse it for hours to get his character to a higher skill level quickly, even if it spoils the immersion of the game and isn't very fun. A powergamer derives enjoyment from doing the calculations to find out the most efficient way to level up, or the best rotation of spells to use, or the easiest way to defeat a difficult boss -- even if these things fall outside the spirit of the game. 
+
+In a game like Dungeons and Dragons, this means making a magic based character so weak they cannot lift a bucket of water so that there are more stat points to put into intellect, or making a barbarian incapable of reading so that there are more points to allocate to strength. In games like the Elder Scrolls series, it means having prior knowldge of a hidden weapon and running there as soon as you start the game, or standing in a corner in a tavern casting the same spell over and over to increase your skill. These kind of players thrive in World of Warcraft. WoW provides on online world filled with stats and gear and boss fights and data, hundreds of ways a player can fine tune their play to make them just a tiny bit better, and makes that competetive. In WoW, a player can improve their gameplay by changing the order of his spell casts or moving out of a mechanic a few seconds faster, and at the same time have a metric for how good they are compared to the other players around them. There is a thriving community of powergamers built up around World of Warcraft. 
+
+We observed one exellent example of powergaming with the release of Warlords of Draenor, the latest World of Warcraft expansion. There is often a kind of race among serious players to see who can be the first person to reach the new highest level after Blizzard releases new content and raises the level cap. Powergamers found out that a player can save up daily quests and wait to turn them in until the day after the level cap increases, allowing him or her to effectively "save up" experience and cash it in all at once. Using this technique allowed a few players to get a head-start on the leveling process, but the lead was so small compared to the time investment required that most players wouldn't find it worth the effort. To a hardcore powergamer, however, finding ways around the system by doing things like saving up experience for later is what makes WoW an exciting game. 
+
+There are powergaming communities online for both PvE and PvP. One good example of a powergaming community built around WoW is the PvE oriented website run by the guild Elitist Jerks (http://forums.elitistjerks.com/page/index.html). The Elitist Jerks website is a hangout for players who want to be the best at raiding they can possibly be. For most classes, this means maximizing DPS. On the Elitist Jerks forums are dozens of guides, spreadsheets, simulations, and discussions oriented around trying to solve the problem of doing as much damage as possible for as long as possible. There are also guides for specific fights and specific roles, disucssing what each member of the raid should do at any point in a fight to do the most damage and increase chances of downing the boss. In World of Warcraft, things often change. As Blizzard collects data from the game and the players in real time, they make subtle changes to the mechanics of the game. By tweaking numbers on abilities and making small changes to fights, they attempt to keep the game fun and balanced for all players, regardless of class or specialization. A side effect of this is that there is always new things to consider for a powergamer. With each patch comes new simulations, new discussions, and new guides about how the changes impact how a player has to play to be the best. World of Warcraft is almost an ideal game for most powergamers.
+
+On the PvP side, a good example of an online community of powergamers is the ArenaJunkies website (http://www.arenajunkies.com). ArenaJunkies is the Elitist Jerks of the PvP world, filled with guides and strategies for every class and every arena. Unlike PvP boss fights, which are scripted, arenas are much more reactionary. This means that instead of guides written for specific fights, ArenaJunkies has guides written that contain general strategies for fighting each matchup. Because the number of combinations of matchups can get very high when you consider the number of combinations not just for the enemy team but also for the player's own teammates, there are a lot of guides. The players who frequent these two sites are often some of the best players of their respective areas of the game, and the fact that they are willing to discuss their techniques and contribute to communities filled with their competetors is just one more reason World of Warcraft is an amazing, constantly improving game. 
+
 
 # World of Warcraft's Virtual Economy
 
@@ -124,7 +137,8 @@ Still other players have no particular reason to amass vast amounts of gold, but
 
 Since prices of goods can fluctuate so dramatically, one technique many guilds use is to band together within the guild and pool their resources. By doing so, a guild can funnel unneeded resources to a player who can make use of them, and that player can craft equipment or items at a much higher rate than they would be able to if they had to go out and rather all of the resources themself. 
 
-# More stuff
+
+# Culture and Etiquette in World of Warcraft
 
 ## Avatar Presentation
 
