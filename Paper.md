@@ -81,8 +81,18 @@ This meant that BearBlasting was not one of best guilds on the server. Usually t
 BearBlasting recently got back together at the start of the newest expansion, and this time the members have been a bit more serious about being a good guild. They still have the family oriented attitude, and anyone who knows someone in the guild and wants to join is more than welcome. The guild structure is pretty loose, with higher ranking members pulling not much more weight than new members. Every now and then there is some kind of guild drama, but for the most part people just play to have fun and there isn't much to cause trouble about. For Clay, WoW has always been more about the people that he plays with than any goals in the game.
 
 ## Nate's Experience
-// mention the names of the guilds we are in
 
+Nate started in 2008, playing a Night Elf Druid on the server Darkspear. Playing WoW was something he originally made fun of, but while on a backpacking trip in Copper Canyon, Mexico with some friends, away from technology for days his friends convinced him it could be fun. Upon getting back from the trip he made an account, and the character Epicgrim. And just like that the beginning of an era. Epicgrim has been Nate's only character through all the years he played. After a few years, the connection to the game and the character becomes very real. That connection adds to the immersion of the game, and excitement of accomplishing things in game.
+
+Only a few months after starting, Nate joined his first real raiding guild, Relapse. It wasn't the most serious guild out there, coming in only about 10th on server, but he was new. Playing a healer he did his first few months of raiding with Relapse. After gaining some experience and gear, Nate decided it was time to step it up. The metaphor being from backyard baseball to the minor leagues. To apply to a better raiding guild is no easy task. It's very much like applying for a job. You must fill out a detailed application with information on yourself personally, and your abilities in game. Nate's application to Vox Radix, the server's best guild was over 4 pages long.
+
+Being accepted to Vox Radix as a damage dealer (DPS), was a big shift for Nate. Vox Radix was a 4 day a week raiding guild. Regularly ranking in the US top 150s. Not the best guild in the world, but competitive. The was a very intense transition from the casual guild. Messing up a mechanic of a boss would result in being yelled at over Ventrillo. Messing up more then a few times would result in being kicked from the team. It's high pressure to perform. The guild leader is very much a dictator, with his word being law. Nate raided with Vox Radix for 3 years, and was easily regarded as one of the better players.
+
+Nate has only taken one break from WoW, and that was in the fall of 2012. Mostly being caused by personal factors, and not rooted in anything specific in game. Leaving on good terms with Vox Radix was important, because it had been a group of people he'd played with for so long. This decision was surprisingly hard, and emotional.
+
+Coming back to the game about 8 months later was a very different process then a new player would have. Much like the working world, having connections is what it's all about. Upon logging back in, all that was needed to find a guild was a message to an old friend asking if they could use a DPS for their raid team. Conveniently they could, and because of their connection, it wasn't hard for Nate to convince him to accept him as a trial despite his lack of knowledge of current bosses, and lack of gear. Nate didn't even need to fill out an application. The social aspects of the game are so much a part of the game. This guild, Party Shark, is the guild Nate is in today. Raiding only 2 days a week, but still relatively competitive.
+
+In the section on guilds we'll look at the lessons learned from guilds, and how players interact to their own benefit and the benefit of the guild.
 
 # The Community of World of Warcraft
 
@@ -95,9 +105,23 @@ WoW etiquette is something that is learned quickly by new players, usually eithe
 
 # Guilds
 
-## Types of Guilds
-## Guild Structure
-## Benefits of Being in a Guild
+The guild is the most tight group with in WoW. They are formed specifically with the players chosen by the guild leader. Guilds often are organized around completing some tasks or goals. In WoW the most common types of guilds as mentioned before are PvE and PvP guilds.
+
+Working with other people is hard, and requires personal sacrifice and understanding. Some people learn these skills through team sports or group projects in class. WoW is most like the team sports because of the structure of the guild. Players who make the most effort to "step up" and lead or contribute outside of their own personal responsibilities are naturally respected is successful. Awkward or annoying personality traits are often made fun of. These are forms of enforcing social conformance much like you see outside of WoW. This promotes players who are helpful, or knowledgeable, and demotes players who are selfish or un-knowledgeable. The main lesson here is that it pays off to be an expert, and that it is socially beneficial to know everything. This is obviously not always the case in all social structures. It could be argued however that this is similar to the social structure of the working world. <TODO: add citation>
+
+## PvE Guild Structure
+
+The guild is organized by ranks, with one guild leader. Generally this matches the social structure in the guild directly. The ranks break people into social tiers. Generally there is a single super leader (Guild Leader), then a small number of secondary leaders (Officers), the core group of players (Raiders), then random people who are just in the guild, but do not contribute to the goals (Friends). The one rank I left out is the Trial rank. This rank is held by players who are not yet trusted to be members of raid team, but are being evaluated. These players are directly put below everyone else on the social structure because they have not yet proved themselves.
+
+The guild is able to accomplish tasks that a player cannot on their own, so there is a very real sense of dependence on the guild in WoW. This gives the guild some power, and control over the players. WoW raiding guild have scheduled you are expected to adhere to. Missing a scheduled raid is **very** bad. Attendance is one of the bigger points guild leadership stresses. Missing more than a few raids without a very good reason will be grounds for being removed from the guild. This again parallels team sports very directly.
+
+Not all guilds are the same though. Some guilds rely on the single leader for everything, and meet feedback or suggestions with strong pushback. While other guilds utilize more leaders to organize the group, and meet feedback more openly. Feedback is very often a point of contention. Everyone has an opinion, and while sometimes there are good suggestions, just as often there are bad suggestions, and when you are raiding a limited number of hours a week, wasting time to people suggesting things is very detrimental. One of the most important jobs of an effective leader is to control the time spent on player feedback. Some guilds handle this by effectively shutting everyone down, while other guilds spend more time talking about feedback.
+
+The best way to communicate feedback without eating into the raid scheduled is to talk outside of the game online. This is one of the purposes of the guild website. Like most communities these days, most guilds have a website for players to stay connected asynchronously through a forum system. This is used for strategic planning and random discussion.
+
+## PvP Guild Structure
+
+TODO
 
 
 # Powergamers
